@@ -1,0 +1,10 @@
+2021-03-23 11:13:15,305 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-23 11:15:24,684 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-23 11:18:04,452 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.3.10.BUILD-SNAPSHOT/spring-boot-dependencies-2.3.10.BUILD-20210319.213543-42.pom
+2021-03-23 11:18:04,760 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.3.10.BUILD-SNAPSHOT/spring-boot-dependencies-2.3.10.BUILD-20210319.213543-42.pom
+2021-03-23 11:18:07,558 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.droganation:FarmaSpring:0.0.1-SNAPSHOT @ C:\Users\HP\Desktop\FarmaSpring - Copia\FarmaSpring\pom.xml.
+2021-03-23 11:18:12,175 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FarmaSpring/src/main/java
+2021-03-23 11:18:12,176 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FarmaSpring/src/main/resources
+2021-03-23 11:18:12,187 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FarmaSpring/src/main/resources
+2021-03-23 11:18:12,194 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FarmaSpring/src/test/java
+2021-03-23 11:18:15,176 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
